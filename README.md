@@ -4,8 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/souzaleo.dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leonardosouzadev03@gmail.com)
 
-![Leonardosouzadev GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardosouzadev&_icons=true&bg_color=00000000)
-
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block">
